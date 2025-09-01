@@ -1,1 +1,1 @@
-# news-portal
+This project is an internship-developed news portal application named "RIBS News Portal." It is designed to provide users with a clean and intuitive platform to browse and read the latest news articles. The application aims to offer a seamless user experience with a focus on ease of use and content delivery.
